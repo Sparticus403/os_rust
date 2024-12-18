@@ -1,0 +1,7 @@
+[workspace]
+
+members = [ "processes",
+	"scheduling",
+	"processes", "address_translation",
+]
+resolver = "2"
